@@ -1,2 +1,2 @@
-print("test other")
-x=0
+print("test2")
+x=1
